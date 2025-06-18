@@ -1,6 +1,6 @@
 package runtrack_java.job0;
 
-public class Job0 {
+class Job0 {
     public static void main(String[] args) {
         char lettre = 'A';
         String texte = "Bonjour";

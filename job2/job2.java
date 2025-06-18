@@ -1,14 +1,14 @@
-package runtrack_java.job1;
+package runtrack_java.job2;
 import java.util.Scanner;
 
-public class job1 {
+class job2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); 
 
-        System.out.print("Entrez votre prénom : ");
+        System.out.print("What's your name? ");
         String firstName = scanner.nextLine();    
 
-        System.out.println("Bonjour " + firstName + " !");
+        System.out.println("Hello " + firstName + " !");
         
         scanner.close(); 
     }
