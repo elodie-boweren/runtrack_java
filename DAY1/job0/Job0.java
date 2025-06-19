@@ -1,4 +1,4 @@
-package runtrack_java.job0;
+package runtrack_java.DAY2.job0;
 
 class Job0 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package runtrack_java.job2;
+package runtrack_java.DAY2.job2;
 import java.util.Scanner;
 
 class job2 {
